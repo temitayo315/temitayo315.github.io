@@ -1,0 +1,28 @@
+.navigation{height: 100px;
+padding-right: 100px;
+padding-top: 20px;
+ background-color: white;
+ color: #0000af}
+
+.navbar-right li{padding-left: 15px; font-family: verdana;font-size:20px; }
+.navbar-brand{font-size: 30px;}
+#background-image{
+	background-image: url('images/hero_1.jpg');
+	background-repeat: no-repeat;
+	height: 600px;
+}
+.col-lg-5{font-family:sans-serif; font-size: 50px;color:black; margin-top: 100px; font-weight: bolder;}
+
+.btn-start{height: 60px;width: 130px; border-radius: 60px}
+.jumbotron{height: 350px;background-color: #142952; margin-top: 220px}
+.col-lg-4{color: white}
+.sec{font-family: verdana;font-weight: bold;font-size: 5px}
+.col-lg-6 img{ height: 400px;width: 100 }
+.col-lg-6 h2{font-family: verdana;font-weight: bold;font-size: 40px;color: #142952}
+col-lg-6{font-size: 1px}
+.sec1{margin-left: 400px; font-family: sans-serif;font-weight: bold; color: #142952; margin-bottom: 60px}
+.col-lg-3 img{height: 200px;width: 200px;}
+.sec2 h1{font-family: verdana;font-size: 35px; color: #142952;font-weight: bold;}
+.sec2 p{font-family: serif;font-size: 20px;font-weight: lighter;}
+#message{height: 120px}
+.btn-sm{border-radius: 40px;height: 40px; width: 120px}
